@@ -1,2 +1,2 @@
 #!/bin/bash
-script1.pl -o Hello
+touch hello
