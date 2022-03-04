@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -u -g a+x
+chmod -u -g a+x hello
